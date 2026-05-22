@@ -4,7 +4,7 @@
 
 Learn:
 
-Variables
+Variables >
 Data types
 Operators
 Conditions
